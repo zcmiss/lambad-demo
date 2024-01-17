@@ -1,4 +1,4 @@
-package com.zc.lambda.demo;
+package com.zc.lambda.demo.lamdba;
 
 import java.util.function.IntConsumer;
 
