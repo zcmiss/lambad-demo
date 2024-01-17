@@ -4,6 +4,7 @@ import java.util.function.IntConsumer;
 
 /**
  * lamdba demo3
+ * 省略规则
  *
  * @author zengc
  * @date 2024/01/17
