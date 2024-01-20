@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -17,7 +18,7 @@ import java.util.List;
 @EqualsAndHashCode
 @NoArgsConstructor
 @AllArgsConstructor
-public class Book {
+public class Book  {
 
     /** id */
     private Long id;
@@ -33,4 +34,5 @@ public class Book {
     private Integer score;
     /** 简介 */
     private String intro;
+
 }
